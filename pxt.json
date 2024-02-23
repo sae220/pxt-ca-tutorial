@@ -1,0 +1,19 @@
+{
+    "name": "pxt-ca-tutorial",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "test.md"
+    ],
+    "targetVersions": {
+        "target": "1.7.28",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
