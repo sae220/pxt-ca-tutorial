@@ -6,7 +6,8 @@
         "builder": "*"
     },
     "files": [
-        "test.md"
+        "test.md",
+        "_locales/ja/test.md"
     ],
     "targetVersions": {
         "target": "1.7.28",
